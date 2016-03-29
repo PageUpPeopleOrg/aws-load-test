@@ -40,3 +40,7 @@ To diferentiate between the different servers in the collated log file, name you
 as the server IP. 
 
 ![screenshot of JMeter Thread Group configuration](jmeter-setup.png)
+
+## More details
+Presentation to the Melbourne Alt.NET group on 29 Mar 2016.
+[Finding performance bottlenecks with JMeter](http://phdesign.com.au/presentation-load-testing)
